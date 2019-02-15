@@ -1,0 +1,1 @@
+# Collect usefull javascript functions
