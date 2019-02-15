@@ -1,1 +1,1 @@
-# Collect usefull javascript functions
+# Collect useful javascript functions
