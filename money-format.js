@@ -16,6 +16,6 @@ var Money = (function () {
             console.log(e)
         }
     };
-
+// return element
     return element;
 }());
